@@ -1,0 +1,2 @@
+This is an sampel file.
+that createdby ausaf when he practices python.
